@@ -1,0 +1,7 @@
+D:\Di Lam Nam 2\LamChoiChoi\GaTaThaiBinh\Utility\bin\Debug\Utility.dll
+D:\Di Lam Nam 2\LamChoiChoi\GaTaThaiBinh\Utility\bin\Debug\Utility.pdb
+D:\Di Lam Nam 2\LamChoiChoi\GaTaThaiBinh\Utility\bin\Debug\log4net.dll
+D:\Di Lam Nam 2\LamChoiChoi\GaTaThaiBinh\Utility\bin\Debug\log4net.xml
+D:\Di Lam Nam 2\LamChoiChoi\GaTaThaiBinh\Utility\obj\Debug\Utility.csprojResolveAssemblyReference.cache
+D:\Di Lam Nam 2\LamChoiChoi\GaTaThaiBinh\Utility\obj\Debug\Utility.dll
+D:\Di Lam Nam 2\LamChoiChoi\GaTaThaiBinh\Utility\obj\Debug\Utility.pdb
